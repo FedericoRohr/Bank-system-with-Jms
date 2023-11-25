@@ -1,0 +1,5 @@
+# Created at 2023-11-07T11:39:11.174
+Boot Manifest-JAR contains absolute paths in classpath 'F:\AccenturePaths\mainJavacoin\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+'other' has different root
+
